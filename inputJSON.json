@@ -1,0 +1,384 @@
+[
+{"Country":"Nauru","Rank":"1","Obesity rate":"61"}
+,
+{"Country":"Cook Islands","Rank":"2","Obesity rate":"55.9"}
+,
+{"Country":"Palau","Rank":"3","Obesity rate":"55.3"}
+,
+{"Country":"Marshall Islands","Rank":"4","Obesity rate":"52.9"}
+,
+{"Country":"Tuvalu","Rank":"5","Obesity rate":"51.6"}
+,
+{"Country":"Niue","Rank":"6","Obesity rate":"50"}
+,
+{"Country":"Tonga","Rank":"7","Obesity rate":"48.2"}
+,
+{"Country":"Samoa","Rank":"8","Obesity rate":"47.3"}
+,
+{"Country":"Kiribati","Rank":"9","Obesity rate":"46"}
+,
+{"Country":"Federated States of Micronesia","Rank":"10","Obesity rate":"45.8"}
+,
+{"Country":"Kuwait","Rank":"11","Obesity rate":"37.9"}
+,
+{"Country":"United States","Rank":"12","Obesity rate":"36.2"}
+,
+{"Country":"Jordan","Rank":"13","Obesity rate":"35.5"}
+,
+{"Country":"Saudi Arabia","Rank":"14","Obesity rate":"35.4"}
+,
+{"Country":"Qatar","Rank":"15","Obesity rate":"35.1"}
+,
+{"Country":"Libya","Rank":"16","Obesity rate":"32.5"}
+,
+{"Country":"Turkey","Rank":"17","Obesity rate":"32.01"}
+,
+{"Country":"Egypt","Rank":"18","Obesity rate":"32"}
+,
+{"Country":"Lebanon","Rank":"19","Obesity rate":"32"}
+,
+{"Country":"United Arab Emirates","Rank":"20","Obesity rate":"31.7"}
+,
+{"Country":"Bahamas","Rank":"21","Obesity rate":"31.6"}
+,
+{"Country":"New Zealand","Rank":"22","Obesity rate":"30.8"}
+,
+{"Country":"Iraq","Rank":"23","Obesity rate":"30.4"}
+,
+{"Country":"Fiji","Rank":"24","Obesity rate":"30.2"}
+,
+{"Country":"Bahrain","Rank":"25","Obesity rate":"29.8"}
+,
+{"Country":"Canada","Rank":"26","Obesity rate":"29.4"}
+,
+{"Country":"Australia","Rank":"27","Obesity rate":"29"}
+,
+{"Country":"Malta","Rank":"28","Obesity rate":"28.9"}
+,
+{"Country":"Mexico","Rank":"29","Obesity rate":"28.9"}
+,
+{"Country":"Argentina","Rank":"30","Obesity rate":"28.3"}
+,
+{"Country":"South Africa","Rank":"31","Obesity rate":"28.3"}
+,
+{"Country":"Chile","Rank":"32","Obesity rate":"28"}
+,
+{"Country":"Dominica","Rank":"33","Obesity rate":"27.9"}
+,
+{"Country":"Uruguay","Rank":"34","Obesity rate":"27.9"}
+,
+{"Country":"Syria","Rank":"35","Obesity rate":"27.8"}
+,
+{"Country":"United Kingdom","Rank":"36","Obesity rate":"27.8"}
+,
+{"Country":"Dominican Republic","Rank":"37","Obesity rate":"27.8"}
+,
+{"Country":"Algeria","Rank":"38","Obesity rate":"27.4"}
+,
+{"Country":"Oman","Rank":"39","Obesity rate":"27"}
+,
+{"Country":"Tunisia","Rank":"40","Obesity rate":"26.9"}
+,
+{"Country":"Suriname","Rank":"41","Obesity rate":"26.4"}
+,
+{"Country":"Hungary","Rank":"42","Obesity rate":"26.4"}
+,
+{"Country":"Lithuania","Rank":"43","Obesity rate":"26.3"}
+,
+{"Country":"Morocco","Rank":"44","Obesity rate":"26.1"}
+,
+{"Country":"Israel","Rank":"45","Obesity rate":"26.1"}
+,
+{"Country":"Czech Republic","Rank":"46","Obesity rate":"26"}
+,
+{"Country":"Iran","Rank":"47","Obesity rate":"25.8"}
+,
+{"Country":"Costa Rica","Rank":"48","Obesity rate":"25.7"}
+,
+{"Country":"Andorra","Rank":"49","Obesity rate":"25.6"}
+,
+{"Country":"Venezuela","Rank":"50","Obesity rate":"25.6"}
+,
+{"Country":"Ireland","Rank":"51","Obesity rate":"25.3"}
+,
+{"Country":"Vanuatu","Rank":"52","Obesity rate":"25.2"}
+,
+{"Country":"Bulgaria","Rank":"53","Obesity rate":"25"}
+,
+{"Country":"Greece","Rank":"54","Obesity rate":"24.9"}
+,
+{"Country":"Jamaica","Rank":"55","Obesity rate":"24.7"}
+,
+{"Country":"Cuba","Rank":"56","Obesity rate":"24.6"}
+,
+{"Country":"El Salvador","Rank":"57","Obesity rate":"24.6"}
+,
+{"Country":"Belarus","Rank":"58","Obesity rate":"24.5"}
+,
+{"Country":"Croatia","Rank":"59","Obesity rate":"24.4"}
+,
+{"Country":"Belize","Rank":"60","Obesity rate":"24.1"}
+,
+{"Country":"Ukraine","Rank":"61","Obesity rate":"24.1"}
+,
+{"Country":"Spain","Rank":"62","Obesity rate":"23.8"}
+,
+{"Country":"Nicaragua","Rank":"63","Obesity rate":"23.7"}
+,
+{"Country":"Saint Vincent and the Grenadines","Rank":"64","Obesity rate":"23.7"}
+,
+{"Country":"Latvia","Rank":"65","Obesity rate":"23.6"}
+,
+{"Country":"Montenegro","Rank":"66","Obesity rate":"23.3"}
+,
+{"Country":"Norway","Rank":"67","Obesity rate":"23.1"}
+,
+{"Country":"Barbados","Rank":"68","Obesity rate":"23.1"}
+,
+{"Country":"Poland","Rank":"69","Obesity rate":"23.1"}
+,
+{"Country":"Russia","Rank":"70","Obesity rate":"23.1"}
+,
+{"Country":"Saint Kitts and Nevis","Rank":"71","Obesity rate":"22.9"}
+,
+{"Country":"Panama","Rank":"72","Obesity rate":"22.7"}
+,
+{"Country":"Haiti","Rank":"73","Obesity rate":"22.7"}
+,
+{"Country":"Luxembourg","Rank":"74","Obesity rate":"22.6"}
+,
+{"Country":"Solomon Islands","Rank":"75","Obesity rate":"22.5"}
+,
+{"Country":"Romania","Rank":"76","Obesity rate":"22.5"}
+,
+{"Country":"North Macedonia","Rank":"77","Obesity rate":"22.4"}
+,
+{"Country":"Colombia","Rank":"78","Obesity rate":"22.3"}
+,
+{"Country":"Germany","Rank":"79","Obesity rate":"22.3"}
+,
+{"Country":"Finland","Rank":"80","Obesity rate":"22.2"}
+,
+{"Country":"Belgium","Rank":"81","Obesity rate":"22.1"}
+,
+{"Country":"Brazil","Rank":"82","Obesity rate":"22.1"}
+,
+{"Country":"Iceland","Rank":"83","Obesity rate":"21.9"}
+,
+{"Country":"Cyprus","Rank":"84","Obesity rate":"21.8"}
+,
+{"Country":"Albania","Rank":"85","Obesity rate":"21.7"}
+,
+{"Country":"Georgia","Rank":"86","Obesity rate":"21.7"}
+,
+{"Country":"France","Rank":"87","Obesity rate":"21.6"}
+,
+{"Country":"Serbia","Rank":"88","Obesity rate":"21.5"}
+,
+{"Country":"Honduras","Rank":"89","Obesity rate":"21.4"}
+,
+{"Country":"Grenada","Rank":"90","Obesity rate":"21.3"}
+,
+{"Country":"Papua New Guinea","Rank":"91","Obesity rate":"21.3"}
+,
+{"Country":"Estonia","Rank":"92","Obesity rate":"21.2"}
+,
+{"Country":"Guatemala","Rank":"93","Obesity rate":"21.2"}
+,
+{"Country":"Kazakhstan","Rank":"94","Obesity rate":"21"}
+,
+{"Country":"Portugal","Rank":"95","Obesity rate":"20.8"}
+,
+{"Country":"Mongolia","Rank":"96","Obesity rate":"20.6"}
+,
+{"Country":"Sweden","Rank":"97","Obesity rate":"20.6"}
+,
+{"Country":"Slovakia","Rank":"98","Obesity rate":"20.5"}
+,
+{"Country":"Netherlands","Rank":"99","Obesity rate":"20.4"}
+,
+{"Country":"Paraguay","Rank":"100","Obesity rate":"20.3"}
+,
+{"Country":"Guyana","Rank":"101","Obesity rate":"20.2"}
+,
+{"Country":"Slovenia","Rank":"102","Obesity rate":"20.2"}
+,
+{"Country":"Armenia","Rank":"103","Obesity rate":"20.2"}
+,
+{"Country":"Bolivia","Rank":"104","Obesity rate":"20.2"}
+,
+{"Country":"Austria","Rank":"105","Obesity rate":"20.1"}
+,
+{"Country":"Azerbaijan","Rank":"106","Obesity rate":"19.9"}
+,
+{"Country":"Italy","Rank":"107","Obesity rate":"19.9"}
+,
+{"Country":"Ecuador","Rank":"108","Obesity rate":"19.9"}
+,
+{"Country":"Peru","Rank":"109","Obesity rate":"19.7"}
+,
+{"Country":"Saint Lucia","Rank":"110","Obesity rate":"19.7"}
+,
+{"Country":"Denmark","Rank":"111","Obesity rate":"19.7"}
+,
+{"Country":"Switzerland","Rank":"112","Obesity rate":"19.5"}
+,
+{"Country":"Antigua and Barbuda","Rank":"113","Obesity rate":"18.9"}
+,
+{"Country":"Botswana","Rank":"114","Obesity rate":"18.9"}
+,
+{"Country":"Moldova","Rank":"115","Obesity rate":"18.9"}
+,
+{"Country":"Trinidad and Tobago","Rank":"116","Obesity rate":"18.6"}
+,
+{"Country":"Turkmenistan","Rank":"117","Obesity rate":"18.6"}
+,
+{"Country":"Bosnia and Herzegovina","Rank":"118","Obesity rate":"17.9"}
+,
+{"Country":"Namibia","Rank":"119","Obesity rate":"17.2"}
+,
+{"Country":"Yemen","Rank":"120","Obesity rate":"17.1"}
+,
+{"Country":"Kyrgyzstan","Rank":"121","Obesity rate":"16.6"}
+,
+{"Country":"Lesotho","Rank":"122","Obesity rate":"16.6"}
+,
+{"Country":"Uzbekistan","Rank":"123","Obesity rate":"16.6"}
+,
+{"Country":"SWZ","Rank":"124","Obesity rate":"16.5"}
+,
+{"Country":"Malaysia","Rank":"125","Obesity rate":"15.6"}
+,
+{"Country":"Zimbabwe","Rank":"126","Obesity rate":"15.5"}
+,
+{"Country":"Gabon","Rank":"127","Obesity rate":"15"}
+,
+{"Country":"Tajikistan","Rank":"128","Obesity rate":"14.2"}
+,
+{"Country":"Brunei","Rank":"129","Obesity rate":"14.1"}
+,
+{"Country":"Seychelles","Rank":"130","Obesity rate":"14"}
+,
+{"Country":"Djibouti","Rank":"131","Obesity rate":"13.5"}
+,
+{"Country":"Mauritania","Rank":"132","Obesity rate":"12.7"}
+,
+{"Country":"STP","Rank":"133","Obesity rate":"12.4"}
+,
+{"Country":"Cape Verde","Rank":"134","Obesity rate":"11.8"}
+,
+{"Country":"Cameroon","Rank":"135","Obesity rate":"11.4"}
+,
+{"Country":"Ghana","Rank":"136","Obesity rate":"10.9"}
+,
+{"Country":"Mauritius","Rank":"137","Obesity rate":"10.8"}
+,
+{"Country":"Gambia","Rank":"138","Obesity rate":"10.3"}
+,
+{"Country":"Ivory Coast","Rank":"139","Obesity rate":"10.3"}
+,
+{"Country":"Thailand","Rank":"140","Obesity rate":"10"}
+,
+{"Country":"Liberia","Rank":"141","Obesity rate":"9.9"}
+,
+{"Country":"Benin","Rank":"142","Obesity rate":"9.6"}
+,
+{"Country":"COG","Rank":"143","Obesity rate":"9.6"}
+,
+{"Country":"Guinea-Bissau","Rank":"144","Obesity rate":"9.5"}
+,
+{"Country":"Nigeria","Rank":"145","Obesity rate":"8.9"}
+,
+{"Country":"Senegal","Rank":"146","Obesity rate":"8.8"}
+,
+{"Country":"Sierra Leone","Rank":"147","Obesity rate":"8.7"}
+,
+{"Country":"Maldives","Rank":"148","Obesity rate":"8.6"}
+,
+{"Country":"Mali","Rank":"149","Obesity rate":"8.6"}
+,
+{"Country":"Pakistan","Rank":"150","Obesity rate":"8.6"}
+,
+{"Country":"Togo","Rank":"151","Obesity rate":"8.4"}
+,
+{"Country":"Tanzania","Rank":"152","Obesity rate":"8.4"}
+,
+{"Country":"Somalia","Rank":"153","Obesity rate":"8.3"}
+,
+{"Country":"Angola","Rank":"154","Obesity rate":"8.2"}
+,
+{"Country":"Zambia","Rank":"155","Obesity rate":"8.1"}
+,
+{"Country":"Equatorial Guinea","Rank":"156","Obesity rate":"8"}
+,
+{"Country":"Comoros","Rank":"157","Obesity rate":"7.8"}
+,
+{"Country":"Guinea","Rank":"158","Obesity rate":"7.7"}
+,
+{"Country":"Central African Republic","Rank":"159","Obesity rate":"7.5"}
+,
+{"Country":"Mozambique","Rank":"160","Obesity rate":"7.2"}
+,
+{"Country":"Kenya","Rank":"161","Obesity rate":"7.1"}
+,
+{"Country":"Indonesia","Rank":"162","Obesity rate":"6.9"}
+,
+{"Country":"North Korea","Rank":"163","Obesity rate":"6.8"}
+,
+{"Country":"Democratic Republic of the Congo","Rank":"164","Obesity rate":"6.7"}
+,
+{"Country":"Sudan","Rank":"165","Obesity rate":"6.6"}
+,
+{"Country":"South Sudan","Rank":"166","Obesity rate":"6.6"}
+,
+{"Country":"Bhutan","Rank":"167","Obesity rate":"6.4"}
+,
+{"Country":"Philippines","Rank":"168","Obesity rate":"6.4"}
+,
+{"Country":"China","Rank":"169","Obesity rate":"6.2"}
+,
+{"Country":"Singapore","Rank":"170","Obesity rate":"6.1"}
+,
+{"Country":"Chad","Rank":"171","Obesity rate":"6.1"}
+,
+{"Country":"Malawi","Rank":"172","Obesity rate":"5.8"}
+,
+{"Country":"Rwanda","Rank":"173","Obesity rate":"5.8"}
+,
+{"Country":"Burkina Faso","Rank":"174","Obesity rate":"5.6"}
+,
+{"Country":"Niger","Rank":"175","Obesity rate":"5.5"}
+,
+{"Country":"Afghanistan","Rank":"176","Obesity rate":"5.5"}
+,
+{"Country":"Burundi","Rank":"177","Obesity rate":"5.4"}
+,
+{"Country":"Madagascar","Rank":"178","Obesity rate":"5.3"}
+,
+{"Country":"Laos","Rank":"179","Obesity rate":"5.3"}
+,
+{"Country":"Uganda","Rank":"180","Obesity rate":"5.3"}
+,
+{"Country":"Sri Lanka","Rank":"181","Obesity rate":"5.2"}
+,
+{"Country":"Eritrea","Rank":"182","Obesity rate":"5"}
+,
+{"Country":"South Korea","Rank":"183","Obesity rate":"4.7"}
+,
+{"Country":"Ethiopia","Rank":"184","Obesity rate":"4.5"}
+,
+{"Country":"Japan","Rank":"185","Obesity rate":"4.3"}
+,
+{"Country":"Nepal","Rank":"186","Obesity rate":"4.1"}
+,
+{"Country":"Cambodia","Rank":"187","Obesity rate":"3.9"}
+,
+{"Country":"India","Rank":"188","Obesity rate":"3.9"}
+,
+{"Country":"Timor-Leste","Rank":"189","Obesity rate":"3.8"}
+,
+{"Country":"Bangladesh","Rank":"190","Obesity rate":"3.6"}
+,
+{"Country":"Vietnam","Rank":"191","Obesity rate":"2.1"}
+
+]
